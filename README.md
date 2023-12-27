@@ -3,16 +3,17 @@
 Selamat datang di portofolio online saya! Saya Arifandhika Jun Morgana Putra, seorang freelancer dengan fokus pada transkripsi dan penulisan. Berikut adalah beberapa contoh proyek yang telah saya selesaikan:
 
 ## Transkripsi Profesional:
-1. **Diskusi tentang Karir Freelancer:** [Link to Transcription]
-2. **Diskusi Penggemar Blackpink di Indonesia:** <a href="Diskusi Penggemar Blackpink di Indonesia.pdf" target="_blank">Nama File PDF</a>
+1. **Proyek Riset Sekolah:** <a href="Proyek Riset Sekolah.pdf" target="_blank">Riset Project</a>
+
+2. **Diskusi Penggemar Blackpink di Indonesia:** <a href="Diskusi Penggemar Blackpink di Indonesia.pdf" target="_blank">Transkrip Project</a>
 
 
 ## Transkripsi Budaya dan Bahasa:
-1. **Obrolan tentang Black Clover dan Jujutsu Kaisen dalam Bahasa Jepang:** [Link to Transcription]
-2. **Obrolan di Supermarket antara Orang Indonesia dan Penduduk Korea:** [Link to Transcription]
+1. **Obrolan tentang Black Clover dan Jujutsu Kaisen dalam Bahasa Jepang:** <a href="Obrolan Tentang Black Clover dan Jujutsu Kaisen dalam Bahasa Jepang.pdf" target="_blank">Transkrip Project</a>
+2. **Obrolan di Supermarket antara Orang Indonesia dan Penduduk Korea:** <a href="Transkrip Obrolan Mia dan Ji-Hoon.pdf" target="_blank">Transkrip Project</a>
 
 ## Transkripsi Diskusi Terkini:
-1. **Diskusi tentang Peristiwa Terbaru di Palestina:** [Link to Transcription]
+1. **Diskusi tentang Peristiwa Terbaru di Palestina:** <a href="Discussion on Recent Events in Palestine.pdf" target="_blank">Transkrip Project</a>
 
 ### Kelebihan Saya:
 - **Profesionalisme:** Menyajikan transkripsi dengan tingkat profesionalisme yang tinggi.

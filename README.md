@@ -4,7 +4,8 @@ Selamat datang di portofolio online saya! Saya Arifandhika Jun Morgana Putra, se
 
 ## Transkripsi Profesional:
 1. **Diskusi tentang Karir Freelancer:** [Link to Transcription]
-2. **Diskusi Penggemar Blackpink di Indonesia:** [Link to Transcription]
+2. **Diskusi Penggemar Blackpink di Indonesia:** <a href="Diskusi Penggemar Blackpink di Indonesia.pdf" target="_blank">Nama File PDF</a>
+
 
 ## Transkripsi Budaya dan Bahasa:
 1. **Obrolan tentang Black Clover dan Jujutsu Kaisen dalam Bahasa Jepang:** [Link to Transcription]

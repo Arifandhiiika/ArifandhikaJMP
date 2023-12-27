@@ -1,6 +1,6 @@
 # Freelance Transcription and Writing Portfolio
 
-<img src="images/IMG-20231220-WA0048.jpg" alt="Deskripsi Gambar">
+<img src="images/ARIFANDHIKA.jpg" alt="Deskripsi Gambar">
 
 Selamat datang di portofolio online saya! Saya Arifandhika Jun Morgana Putra, seorang freelancer dengan fokus pada transkripsi dan penulisan. Berikut adalah beberapa contoh proyek yang telah saya selesaikan:
 
